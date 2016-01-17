@@ -2,7 +2,7 @@
 https://www.codingame.com
 -- PYTHON --
 
-Easy
+Easy (Completed 17/01/2016)
 ------
 Power of Thor             -- 100 % -- 50/50 -- 2/2
 
