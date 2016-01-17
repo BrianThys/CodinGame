@@ -4,7 +4,7 @@ https://www.codingame.com
 
 Easy
 ------
-Power of Thor             -- 100 % -- 50/50 -- 2/2 \n
+Power of Thor
 The Descent               -- 100 % -- 50/50 -- 2/2
 Skynet: the Chasm         -- 100 % -- 50/50 -- 2/2
 Temperatures              -- 100 % -- 50/50 -- 2/2
