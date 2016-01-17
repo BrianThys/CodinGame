@@ -22,7 +22,7 @@ MIME Type                 --  70 % -- 25/50 -- 1/2
 
 Defibrillators            -- 100 % -- 50/50 -- 2/2
 
-Horse-racing Duals        --  50 % -- 25/75 -- 1/3
+Horse-racing Duals        -- 100 % -- 50/75 -- 2/3
 
 Medium
 ------

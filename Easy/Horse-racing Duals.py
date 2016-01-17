@@ -13,20 +13,16 @@ for i in xrange(n):
     
     list.append(pi)
 
+list.sort()
 range = len(list)
 
-for outer in xrange(range):
-    pi_o = list[outer]
+for i in xrange(range - 1):
+    pi_f = list[i]
+    pi_s = list[i + 1]
     
-    for inner in xrange(range):
-        pi_i = list[inner]
+    d_now = pi_s - pi_f
         
-        d_now = pi_o - pi_i
-        
-        if d_now < d and d_now > 0:
-            d = d_now
+    if d_now < d:
+        d = d_now
     
-if d == 10000001:
-    print 0
-else:
-    print d            
+print d
