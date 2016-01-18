@@ -18,7 +18,7 @@ ASCII Art                 -- 100 % -- 50/50 -- 2/2
 
 Chuck Norris              -- 100 % -- 50/50 -- 2/2
 
-MIME Type                 --  70 % -- 25/50 -- 1/2
+MIME Type                 -- 100 % -- 50/50 -- 2/2
 
 Defibrillators            -- 100 % -- 50/50 -- 2/2
 
